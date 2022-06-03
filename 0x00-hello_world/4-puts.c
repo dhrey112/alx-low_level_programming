@@ -3,7 +3,7 @@
 /**
  *main: The program entry
  *
- *description: prints phrases to the terminal
+ *Description: prints phrases to the terminal
  *
  *Return: 0 if properly exited, non-zero otherwise
  */
