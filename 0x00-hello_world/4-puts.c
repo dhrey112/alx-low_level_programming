@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- *main: The program entry
+ * main: The program entry
+ * Description: prints phrases to the terminal
  *
- *Description: prints phrases to the terminal
- *
- *Return: 0 if properly exited, non-zero otherwise
+ * Return: 0 if properly exited, non-zero otherwise
  */
 int main(void)
 {
