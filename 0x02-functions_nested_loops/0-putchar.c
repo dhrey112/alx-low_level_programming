@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * mainn - Entry
+ * main - Entry
  *
  * Description: a program that prints _putchar
  *
