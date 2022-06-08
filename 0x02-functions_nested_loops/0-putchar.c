@@ -9,7 +9,7 @@
  * Return: 0 if success
  * Otherwise, return -1 for error
  */
-void print_putchar(void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -20,5 +20,6 @@ void print_putchar(void)
 	_putchar('a');
 	_putchar('t');
 	_putchar('\n');
+	return (0);
 }
 
