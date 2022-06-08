@@ -1,15 +1,15 @@
-#include <stdio.h>
-#include <main.h>
+#include <unistd.h>
+/*#include "main.h"*/
 
 /**
- * main - Entry
+ * _putchar - write the character
  *
  * Description: a program that prints _putchar
  *
- * Return: 0
+ * Return: 1.
+ * On error, -1 is returned.
  */
-int main(void)
+int _putchar(char c)
 {
-	printf("_putchar\n");
-	return (0);
+	return (write(1, &c, 1));
 }
