@@ -1,10 +1,11 @@
 #include <unistd.h>
-/*#include "main.h"*/
+#include "main.h"
 
 /**
  * _putchar - write the character
  *
  * Description: a program that prints _putchar
+ * @c: The character to print
  *
  * Return: 1.
  * On error, -1 is returned.
