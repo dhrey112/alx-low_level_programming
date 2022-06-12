@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet - Print alphabet in lowercase.
- g
+ *
  * Decription: A function that print lowercase
  */
 void print_alphabet(void)
