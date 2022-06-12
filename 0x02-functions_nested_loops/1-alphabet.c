@@ -5,7 +5,7 @@
  g
  * Decription: A function that print lowercase
  */
-void print_alphabet_x10(void)
+void print_alphabet(void)
 {
 	char alphabet;
 
