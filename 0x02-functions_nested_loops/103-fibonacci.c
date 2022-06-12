@@ -7,7 +7,6 @@
  */
 int main(void)
 {
-	int i;
 	long int sum, num1, num2, fibNum;
 
 	num1 = 1;
