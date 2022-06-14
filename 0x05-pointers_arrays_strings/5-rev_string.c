@@ -12,7 +12,7 @@ void rev_string(char *s)
 	firstLen = 0;
 	secondLen = 0;
 
-	while (*(s + i) != '\0')
+	while (*(s + firstLen) != '\0')
 	{
 		firstLen++;
 	}
